@@ -1,0 +1,5 @@
+.env
+*.csv
+amazon_review_polarity_csv/
+__pycache__/
+venv/
